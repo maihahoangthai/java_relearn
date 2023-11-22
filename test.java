@@ -1,4 +1,10 @@
 import java.util.Scanner; /* Thư viện để lấy input từ User */
+// import java.util.* 
+/* Dấu * nghĩa là lấy tất cả các class có trong package.
+ * Ví dụ: Scanner, Stack, Queue đều là class có trong package java.util.
+ * Cụm "java.util" là tên của package.
+ * Package là tập hợp nhiều file nằm chung thư mục. Mỗi file có thể chứa nhiều class nhưng dòng đầu tiên của những tệp này luôn là <package tên_package>.
+*/
 
 public class test{
     public static void main(String[] args){
