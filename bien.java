@@ -1,7 +1,7 @@
 // Variables = Biến.
 // Data Type = Kiểu dữ liệu.
 public class bien{
-    /* Primitive data type: byte, short, int, long, float, double, boolean
+    /* Primitive data type: byte, short, int, long, float, double, boolean và char.
      * String không phải một Primitive data type.
     */
     public static void main(String[] args){
