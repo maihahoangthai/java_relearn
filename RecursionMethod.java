@@ -2,7 +2,7 @@
  * gọi x là Argument của hàm hồi quy f().
  * 1. Hàm phải có vòng lập if-else
  * 2. Nếu đúng, return (x + f(x-1))
- * 3. Nếu sai, return một value cụ thể nào đó như 5, 10, 2, 0, ...
+ * 3. Nếu sai, return một value cụ thể nào đó như 5, 10, 2, 0, v.v. hoặc x
  */
 public class RecursionMethod{
     public static void main(String[] args){

@@ -26,5 +26,8 @@ public class bien{
         boolean myBool = true;
         System.out.println("boolean = " + myBool + " or false");
         /* Thường dùng nhất là kiểu int và double. Thay vì byte, short, long, float. */
+        
+        // Dùng "final" nếu không muốn Variable bị sửa đổi dù với bất cứ lý do gì.
+        final float PI = 3.14f; // Thí dụ.
     }
 }
