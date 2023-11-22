@@ -1,7 +1,9 @@
 // Variables = Biến.
 // Data Type = Kiểu dữ liệu.
 public class bien{
-    /* Primitive data type */
+    /* Primitive data type: byte, short, int, long, float, double, boolean
+     * String không phải một Primitive data type.
+    */
     public static void main(String[] args){
         byte myByte = 127;
         short myShort = 128;
@@ -23,6 +25,6 @@ public class bien{
         
         boolean myBool = true;
         System.out.println("boolean = " + myBool + " or false");
-        /* Thường dùng nhất là kiểu int và double, thay vì byte, short, long, float */
+        /* Thường dùng nhất là kiểu int và double. Thay vì byte, short, long, float. */
     }
 }
