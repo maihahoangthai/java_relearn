@@ -35,7 +35,7 @@ public class loopType{
             myNum++;
         }
 
-        do{
+        do{ // Do-While khác While ở chỗ block của Do sẽ chạy 1 lần bất kể điều kiện While có đúng hay sai.
             System.out.println("Do While -> myNum = " + myNum);
             myNum--;
         }while(myNum >= 2);
